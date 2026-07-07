@@ -1,0 +1,3 @@
+သတင်းများနှင့် ဝဘ်စာမျက်နှာများမှ စုစည်းကာ အရည်အသွေးမြင့်မားစွာ သန့်စင်ထားသော text dataset ဖြစ်သည်။
+ဒုံးကျည် ၂ စင်း မြောက်ကိုရီးယား ပစ်လွှတ်တဲ့အကြောင်းအပါအဝင် မနက်ခင်းသတင်းများ... visit https://www.bbc.com/burmese/49108007 or contact news@bbc.com for info.
+"Enjoying a beautiful day at the park!" (Non-Burmese content to filter out)

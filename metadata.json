@@ -1,0 +1,8 @@
+{
+  "name": "Burmese Universal AI",
+  "description": "An offline, end-to-end Burmese Voice Assistant with local feedback loop, wake word detection, and custom voice command control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

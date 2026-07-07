@@ -1,0 +1,8 @@
+{
+  "name": "myanmar-hyper-ai-voice-assistant",
+  "version": "1.0.0",
+  "description": "Myanmar HyperAI Voice Assistant OS",
+  "dependencies": {
+    "lottie-react": "^2.4.0"
+  }
+}
